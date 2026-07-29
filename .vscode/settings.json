@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "optional": "cpp",
+        "vector": "cpp",
+        "map": "cpp",
+        "format": "cpp",
+        "system_error": "cpp",
+        "bitset": "cpp",
+        "coroutine": "cpp",
+        "string": "cpp",
+        "memory": "cpp",
+        "string_view": "cpp",
+        "stacktrace": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "iosfwd": "cpp"
+    }
+}
